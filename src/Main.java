@@ -19,6 +19,7 @@ public class Main {
         //Mostrar los valores nuevos.
         //comentario git:
         //fix git
+        //fix git 2
         System.out.println("Now:");
         System.out.println("varA: " + varA);
         System.out.println("varB: " + varB);
